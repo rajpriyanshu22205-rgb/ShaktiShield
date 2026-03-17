@@ -1,0 +1,31 @@
+﻿
+C:\Users\pr892\Downloads\react expo\shaktishield-app\app\(tabs)\index.tsx
+  18:9  warning  'width' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\pr892\Downloads\react expo\shaktishield-app\app\login.tsx
+   3:57  warning  'Image' is defined but never used                                @typescript-eslint/no-unused-vars
+  80:43  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\pr892\Downloads\react expo\shaktishield-app\app\sos-active.tsx
+   36:6  warning  React Hook useEffect has missing dependencies: 'delay', 'fadeAnim', and 'slideAnim'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+   65:9  warning  'router' is assigned a value but never used                                                                                              @typescript-eslint/no-unused-vars
+  101:6  warning  React Hook useEffect has a missing dependency: 'pulseAnim'. Either include it or remove the dependency array                             react-hooks/exhaustive-deps
+
+C:\Users\pr892\Downloads\react expo\shaktishield-app\components\EmergencyType.tsx
+  87:48  error  React Hook "useThemeColor" is called conditionally. React Hooks must be called in the exact same order in every component render  react-hooks/rules-of-hooks
+
+C:\Users\pr892\Downloads\react expo\shaktishield-app\components\SOSButton.tsx
+  12:9  warning  'width' is assigned a value but never used                                                                                                       @typescript-eslint/no-unused-vars
+  70:6  warning  React Hook useEffect has missing dependencies: 'pulseAnim1', 'pulseAnim2', and 'pulseAnim3'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+C:\Users\pr892\Downloads\react expo\shaktishield-app\components\external-link.tsx
+  21:14  warning  'error' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\pr892\Downloads\react expo\shaktishield-app\components\hello-wave.tsx
+  25:6  warning  React Hook React.useEffect has a missing dependency: 'waveAnim'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+C:\Users\pr892\Downloads\react expo\shaktishield-app\components\parallax-scroll-view.tsx
+  13:9  warning  'height' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+Γ£û 12 problems (2 errors, 10 warnings)
+
